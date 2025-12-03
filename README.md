@@ -77,6 +77,8 @@ A organização de diretórios segue o padrão abaixo:
   
   
   # Autores 
-Marcio Arthur Machado de Oliveira
-Caio Henrique Pereira de Freitas
-Jullia Guedes Freire
+  Caio Henrique Pereira de Freitas,
+ Jullia Guedes Freire,
+ Marcio Arthur Machado de Oliveira
+
+
